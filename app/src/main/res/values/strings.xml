@@ -2,4 +2,8 @@
     <string name="app_name">GitHubSearch</string>
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="saved_nome_usuario">saved_nome_usuario</string>
+    <string name="response_error">Ops, Algo deu errado :(</string>
+    <string name="usuario_nao_localizado">Usuário não localizado :(</string>
+
 </resources>
